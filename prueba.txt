@@ -1,0 +1,3 @@
+Este es el contenido de un archivo de texto cualquiera el cual el programa va a leer para mostrar en pantalla
+solo es cuestion de darle en el boton superior y el archivo de prueba sera leido
+y sumado a eso le dimos interfaz grafica con tkinter
